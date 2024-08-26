@@ -54,8 +54,8 @@ Example: "This is cool" should return "THIS IS COOL!"
 
 export function makeMeLoud(str)
  {
-return str.toUpperCase()+"!";
-}
+ return str.toUpperCase()+"!";
+ }
 
 
 
